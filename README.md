@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning how to make more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : just texte me bro
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I always wear socks 
 
 <!---
 wisrom/wisrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
