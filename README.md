@@ -33,9 +33,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://streak-stats.demolab.com?user=Wisrom&theme=catppuccin-mocha&card_width=500&hide_border=tdrue&mode=weekly">
 </div>
 
-<div align='center'>
-    <img src='https://readme-stats-guibi1.vercel.app/api?username=Wisrom&theme=catppuccin_mocha&card_width=500&show_icons=true&count_private=true&hide_title=true'>
-</div>
 
 <div align='center'>
   <img src='https://readme-stats-guibi1.vercel.app/api/top-langs/?username=Wisrom&theme=catppuccin_mocha&card_width=500&layout=normal&size_weight=0.2&count_weight=0.8'>
