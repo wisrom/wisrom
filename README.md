@@ -9,10 +9,10 @@ You can click the Preview link to take a look at your changes.
 
 <p align='center'>
     Welcome to my profile :)
-</p>- 
+</p> 
 <p align='center'>
     ⚡ Fun fact: I always wear socks 
-</p>- 
+</p> 
 <div align='center'>
     <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'>
     <img src='https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
