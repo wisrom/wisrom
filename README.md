@@ -5,13 +5,13 @@
 wisrom/wisrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hey, I'm Wisrom ! 🙋‍♂️</h1>
+<h1 align="center">Hey, I'm Wisro ! 🙋‍♂️</h1>
 
 <p align='center'>
     Welcome to my profile :)
 </p> 
 <p align='center'>
-    ⚡ Fun fact: I always wear socks 
+    ⚡ Fun fact: I always have projects
 </p> 
 <div align='center'>
     <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'>
