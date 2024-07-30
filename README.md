@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
     Welcome to my profile :)
 </p> 
 <p align='center'>
-    ⚡ Fun fact: I always have projects
+    ⚡ Fun fact: I always have projects but not the time 
 </p> 
 <div align='center'>
     <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'>
